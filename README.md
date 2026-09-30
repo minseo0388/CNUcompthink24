@@ -210,8 +210,8 @@ CNUcompthink24/
 <br>
 
 <div align="right">
-  <img src="assets/taegeukgi.svg" height="42" alt="대한민국 국기">
-  <a href="https://plus.cnu.ac.kr/"><img src="assets/cnu-logo.svg" height="42" alt="Chungnam National University"></a>
+  <a href="https://plus.cnu.ac.kr/"><img src="assets/cnu-logo.svg" height="60" alt="Chungnam National University"></a>
+  <img src="assets/taegeukgi.svg" height="60" alt="대한민국 국기">
 </div>
 
 <sub>본 문서에 사용된 학교·지자체 로고 및 기타 이미지는 각 권리자에게 귀속되며, 관련 기관·자료의 식별과 과제 설명을 위한 목적으로만 사용하였다.</sub>
