@@ -11,15 +11,52 @@
 
 ## 목차
 
-1. [데이터 분석 주제](#data-analysis-topic)
-2. [코드 개발 과정](#code-development-process)
-   - [CSV 파일에서 지역별 데이터를 추출](#regional-data-extraction)
-   - [각 지점별 데이터를 분리하여 저장](#file-separation)
-   - [각각의 파일을 읽어 그래프로 나타내는 코드](#graphing)
-   - [HTML 웹 기반 파일 선택](#web-based-file-selection)
-3. [코드 구조](#code-structure)
-4. [주제에 대한 결론](#conclusion)
-5. [과제를 통한 고찰](#reflection)
+<table>
+  <thead>
+    <tr>
+      <th>순서</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td><a href="#data-analysis-topic">데이터 분석 주제</a></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td><a href="#code-development-process">코드 개발 과정</a></td>
+    </tr>
+    <tr>
+      <td align="center">2-1</td>
+      <td><a href="#regional-data-extraction">CSV 파일에서 지역별 데이터를 추출</a></td>
+    </tr>
+    <tr>
+      <td align="center">2-2</td>
+      <td><a href="#file-separation">각 지점별 데이터를 분리하여 저장</a></td>
+    </tr>
+    <tr>
+      <td align="center">2-3</td>
+      <td><a href="#graphing">각각의 파일을 읽어 그래프로 나타내는 코드</a></td>
+    </tr>
+    <tr>
+      <td align="center">2-4</td>
+      <td><a href="#web-based-file-selection">HTML 웹 기반 파일 선택</a></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td><a href="#code-structure">코드 구조</a></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td><a href="#conclusion">주제에 대한 결론</a></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td><a href="#reflection">과제를 통한 고찰</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -176,3 +213,7 @@ CNUcompthink24/
 데이터 분석하기에 앞서 데이터의 특징이 무엇인지, 데이터의 종류가 무엇인지에 대한 인지가 선행되어야 제대로 된 데이터분석을 진행할 수 있다는 것을 더욱 실감하게 되었다. 그 데이터의 특성을 분석하는 것은 결국 사람이 직접 해야 하는 영역이고 방향성은 사람이 결정해야 하는 것을 알았다.
 
 정부 공공 데이터 포털에서 정보를 다운받았을 때, 여러 속성이 CSV파일 내에 존재하였으나 조사기관이 서로 다른 데이터를 모두 취합한 것에 불과해서 모든 데이터가 정형화되어 존재하지 않았다. AI를 이용하여 데이터를 분석하기 전 데이터를 가공하는 과정에서 시간이 많이 소모되었는데, 위의 코드를 수정하는 시행착오의 과정에서 하나라도 데이터의 정제 및 취사선택이 진행되지 않으면 이후 데이터가 분석되지 않거나, 이상치가 출력되는 등의 결과가 나타나게 되었다. 데이터의 가공도 중요하지만 데이터를 정제하여 분석에 알맞게 쓸 수 있도록 하는 과정인 데이터 분석도 가공 못지않게 중요하거나 더 중요할 수 있겠다는 생각을 하였다.
+
+<br>
+
+<sub>본 문서에 사용된 학교·지자체 로고 및 기타 이미지는 각 권리자에게 귀속되며, 관련 기관·자료의 식별과 과제 설명을 위한 목적으로만 사용하였다.</sub>
