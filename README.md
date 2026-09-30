@@ -1,11 +1,11 @@
-<a href="https://plus.cnu.ac.kr/"><img align="right" src="assets/cnu-logo.svg" width="48" alt="Chungnam National University"></a>
+<a href="https://plus.cnu.ac.kr/"><img align="right" src="assets/cnu-logo.svg" width="64" alt="Chungnam National University"></a>
 
 <h1>동남권 수질오염도 추세 분석</h1>
 
 <p>Water Quality Trends in Southeastern Korea (Busan, Ulsan, Gyeongsangnam-do)</p>
 
 <p>
-  2024년 소프트중심대학 소프트웨어중점사업단 교양수업인 "컴퓨터과학적사고" 강의에서 본인이 제출한 과제입니다.<br>
+  2024년 <a href="https://ai.cnu.ac.kr/ai/">소프트중심대학 소프트웨어중점사업단</a> 교양수업인 "컴퓨터과학적사고" 강의에서 본인이 제출한 과제입니다.<br>
   This assignment was submitted for "Computational Scientific Thinking", a general-education course offered through the National Center of Excellence in Software at Chungnam National University in 2024.
 </p>
 
