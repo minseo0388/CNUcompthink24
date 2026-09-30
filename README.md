@@ -1,6 +1,6 @@
 <a href="https://plus.cnu.ac.kr/"><img align="right" src="assets/cnu-logo.svg" width="48" alt="Chungnam National University"></a>
 
-<h1>ctl_24</h1>
+<h1>Water Quality Trends in Southeastern Korea</h1>
 
 <p>
   computational thinking<br>
@@ -14,45 +14,38 @@
 <table>
   <thead>
     <tr>
-      <th>순서</th>
-      <th>내용</th>
+      <th>구분</th>
+      <th>목차</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">1</td>
+      <th>데이터 분석 주제</th>
       <td><a href="#data-analysis-topic">데이터 분석 주제</a></td>
     </tr>
     <tr>
-      <td align="center">2</td>
-      <td><a href="#code-development-process">코드 개발 과정</a></td>
-    </tr>
-    <tr>
-      <td align="center">2-1</td>
+      <th rowspan="4"><a href="#code-development-process">코드 개발 과정</a></th>
       <td><a href="#regional-data-extraction">CSV 파일에서 지역별 데이터를 추출</a></td>
     </tr>
     <tr>
-      <td align="center">2-2</td>
       <td><a href="#file-separation">각 지점별 데이터를 분리하여 저장</a></td>
     </tr>
     <tr>
-      <td align="center">2-3</td>
       <td><a href="#graphing">각각의 파일을 읽어 그래프로 나타내는 코드</a></td>
     </tr>
     <tr>
-      <td align="center">2-4</td>
       <td><a href="#web-based-file-selection">HTML 웹 기반 파일 선택</a></td>
     </tr>
     <tr>
-      <td align="center">3</td>
+      <th>코드 구조</th>
       <td><a href="#code-structure">코드 구조</a></td>
     </tr>
     <tr>
-      <td align="center">4</td>
+      <th>주제에 대한 결론</th>
       <td><a href="#conclusion">주제에 대한 결론</a></td>
     </tr>
     <tr>
-      <td align="center">5</td>
+      <th>과제를 통한 고찰</th>
       <td><a href="#reflection">과제를 통한 고찰</a></td>
     </tr>
   </tbody>
