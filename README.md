@@ -1,10 +1,13 @@
 <a href="https://plus.cnu.ac.kr/"><img align="right" src="assets/cnu-logo.svg" width="48" alt="Chungnam National University"></a>
 
-<h1>Water Quality Trends in Southeastern Korea</h1>
+<h1>동남권 수질오염도 추세 분석</h1>
+
+<p>Water Quality Trends in Southeastern Korea</p>
 
 <p>
   computational thinking<br>
-  2024년 소프트중심대학 소프트웨어중점사업단 교양수업에서 본인이 제출한 과제입니다.
+  2024년 소프트중심대학 소프트웨어중점사업단 교양수업에서 본인이 제출한 과제입니다.<br>
+  This assignment was submitted for a general-education course offered through the National Center of Excellence in Software at Chungnam National University in 2024.
 </p>
 
 ---
