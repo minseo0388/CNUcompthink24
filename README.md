@@ -50,11 +50,88 @@
 
 ### 1. CSV 파일에서 경상남도, 부산광역시, 울산광역시 관련 데이터를 추출한다.
 
-| 지역 | 포함된 검색어 |
-| --- | --- |
-| <a href="https://www.busan.go.kr/"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Symbol_of_Busan_(2023%E2%80%93).svg" height="30" alt="부산광역시"></a><br>부산광역시 | <a href="https://www.bsjunggu.go.kr/"><img src="https://blog.kakaocdn.net/dna/cF22No/btqxPSPiFdT/AAAAAAAAAAAAAAAAAAAAAJEALwnkI-YL6IcfHJ9LkVZcMj4H5KRloNrodHXcguhL/img.jpg" height="16" alt=""></a> 중구 · <a href="https://www.bsseogu.go.kr/"><img src="https://www.bsseogu.go.kr/img/portal/common/logo.png" height="16" alt=""></a> 서구 · <a href="https://www.bsdonggu.go.kr/"><img src="https://www.bsdonggu.go.kr/images/common/logo2025.png" height="16" alt=""></a> 동구 · <a href="https://www.yeongdo.go.kr/"><img src="https://www.yeongdo.go.kr/_res/portal/img/inc/logo@2x.png" height="16" alt=""></a> 영도구<br><a href="https://www.busanjin.go.kr/"><img src="https://busanjin.go.kr/images/Potal_/content/new/logo.png" height="16" alt=""></a> 부산진구 · <a href="https://www.dongnae.go.kr/"><img src="https://blog.kakaocdn.net/dna/bxHxVm/btqxMtDAd2c/AAAAAAAAAAAAAAAAAAAAANL7IcJ-TTlkn4nF-AbGWfsLhr9njATH670AptsV6PQq/img.jpg" height="16" alt=""></a> 동래구 · <a href="https://www.bsnamgu.go.kr/"><img src="https://www.bsnamgu.go.kr/logo_intro_2026.png" height="16" alt=""></a> 남구 · <a href="https://www.bsbukgu.go.kr/"><img src="https://www.bsbukgu.go.kr/images/portal/logo.jpg" height="16" alt=""></a> 북구<br><a href="https://www.haeundae.go.kr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Haeundae%2C_Busan.svg/960px-Flag_of_Haeundae%2C_Busan.svg.png" height="16" alt=""></a> 해운대구 · <a href="https://www.saha.go.kr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Saha%2C_Busan.svg/960px-Flag_of_Saha%2C_Busan.svg.png" height="16" alt=""></a> 사하구 · <a href="https://www.geumjeong.go.kr/"><img src="https://www.geumjeong.go.kr/img/geumjeong/common_new/logo.png" height="16" alt=""></a> 금정구 · <a href="https://www.bsgangseo.go.kr/"><img src="https://www.bsgangseo.go.kr/_res/portal/img/inc/logo@2x.png" height="16" alt=""></a> 강서구<br><a href="https://www.yeonje.go.kr/"><img src="https://www.yeonje.go.kr/portal/img/common/logo.png" height="16" alt=""></a> 연제구 · <a href="https://www.suyeong.go.kr/"><img src="https://www.suyeong.go.kr/img/suyeong/top_logo_on_2020.png" height="16" alt=""></a> 수영구 · <a href="https://www.sasang.go.kr/"><img src="https://www.sasang.go.kr/img/sasang/common_new/logo.png" height="16" alt=""></a> 사상구 · <a href="https://www.gijang.go.kr/"><img src="https://www.gijang.go.kr/images/portal/intro/new_logo.png" height="16" alt=""></a> 기장군 |
-| <a href="https://www.ulsan.go.kr/"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Emblem_of_Ulsan.svg" height="24" alt="울산광역시"></a><br>울산광역시 | <a href="https://www.junggu.ulsan.kr/"><img src="https://www.junggu.ulsan.kr/images/domain/junggu/file/symbol.jpg" height="16" alt=""></a> 중구 · <a href="https://www.ulsannamgu.go.kr/"><img src="https://www.ulsannamgu.go.kr/images/namgu_img/namgu_logo.png" height="16" alt=""></a> 남구 · <a href="https://www.donggu.ulsan.kr/"><img src="https://www.donggu.ulsan.kr/images/common/logo2.png" height="16" alt=""></a> 동구 · <a href="https://www.bukgu.ulsan.kr/"><img src="https://www.bukgu.ulsan.kr/images/header/logo.svg" height="16" alt=""></a> 북구 · <a href="https://www.ulju.ulsan.kr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Ulju%2C_Ulsan.svg/3840px-Flag_of_Ulju%2C_Ulsan.svg.png" height="16" alt=""></a> 울주군 |
-| <a href="https://www.gyeongnam.go.kr/"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Emblem_of_South_Gyeongsang_Province.png" height="24" alt="경상남도"></a><br>경상남도 | <a href="https://www.changwon.go.kr/"><img src="https://www.changwon.go.kr/cwportal/tracer/logo.png" height="16" alt=""></a> 창원시 (의창구, 성산구, 마산합포구, 마산회원구, 진해구)<br><a href="https://www.jinju.go.kr/"><img src="https://www.jinju.go.kr/_res/portal/img/inc/logo1@2x.png" height="16" alt=""></a> 진주시 · <a href="https://www.tongyeong.go.kr/"><img src="https://www.tongyeong.go.kr/_res/portal/img/inc/logo2026.png" height="16" alt=""></a> 통영시 · <a href="https://www.sacheon.go.kr/"><img src="https://www.sacheon.go.kr/portal/img/inc/logo@2x2025.png" height="16" alt=""></a> 사천시 · <a href="https://www.gimhae.go.kr/"><img src="https://www.gimhae.go.kr/_res/portal/img/inc/logo@2x.png" height="16" alt=""></a> 김해시<br><a href="https://www.miryang.go.kr/"><img src="https://blog.kakaocdn.net/dna/bPVQeU/btqxnmKbhvS/AAAAAAAAAAAAAAAAAAAAAIpSdCf_FuPEwh4SvFXLBpuTKesUY03RzgD47Qcs-KOW/img.jpg" height="16" alt=""></a> 밀양시 · <a href="https://www.geoje.go.kr/"><img src="https://blog.kakaocdn.net/dna/dAsigh/btqxmkGklGY/AAAAAAAAAAAAAAAAAAAAAEaBy9NBPKsv8djyJvlV4rWDsNfyUYYhBPBLF2aY2L8V/img.jpg" height="16" alt=""></a> 거제시 · <a href="https://www.yangsan.go.kr/"><img src="https://blog.kakaocdn.net/dna/bc97WC/btqxlxe5OWO/AAAAAAAAAAAAAAAAAAAAAPzaSFEW8hjRk82P1fie6awRptkeuITw62s-nxMfnUrS/img.jpg" height="16" alt=""></a> 양산시<br><a href="https://www.uiryeong.go.kr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Flag_of_Uiryeong.svg/1063px-Flag_of_Uiryeong.svg.png" height="16" alt=""></a> 의령군 · <a href="https://www.haman.go.kr/"><img src="https://blog.kakaocdn.net/dna/qjabV/btqxAc9MDqf/AAAAAAAAAAAAAAAAAAAAAHhWEyncuipZy-FntORw_Gtb6sGECmhLC-xTCHZxVM64/img.jpg" height="16" alt=""></a> 함안군 · <a href="https://www.cng.go.kr/"><img src="https://www.cng.go.kr/_res/portal/img/inc/logo@2x.png" height="16" alt=""></a> 창녕군 · <a href="https://www.goseong.go.kr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Goseong%2C_South_Gyeongsang.svg/1063px-Flag_of_Goseong%2C_South_Gyeongsang.svg.png" height="16" alt=""></a> 고성군<br><a href="https://www.namhae.go.kr/"><img src="https://www.namhae.go.kr/_res/portal/img/inc/logo@2x2025.png" height="16" alt=""></a> 남해군 · <a href="https://www.hadong.go.kr/"><img src="https://www.hadong.go.kr/_res/portal/img/inc/2022/logo1@2x.png" height="16" alt=""></a> 하동군 · <a href="https://www.sancheong.go.kr/"><img src="https://www.sancheong.go.kr/common/images/layout/logo.png" height="16" alt=""></a> 산청군 · <a href="https://www.hygn.go.kr/"><img src="https://blog.kakaocdn.net/dna/cdCwa7/btqxygZmHMu/AAAAAAAAAAAAAAAAAAAAABAyRW79I3s2EYNrnFm6stLGI-sRiJxU9I7vLPHc_cHy/img.jpg" height="16" alt=""></a> 함양군<br><a href="https://www.geochang.go.kr/"><img src="https://www.geochang.go.kr/_res/intro/img/logo@2x.png" height="16" alt=""></a> 거창군 · <a href="https://www.hc.go.kr/"><img src="https://www.hc.go.kr/_res/portal/img/inc/logo@2x.png" height="16" alt=""></a> 합천군 |
+<table>
+  <thead>
+    <tr>
+      <th>지역</th>
+      <th>포함된 검색어</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://www.busan.go.kr/"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Symbol_of_Busan_(2023%E2%80%93).svg" height="30" alt="부산광역시"></a><br>
+        부산광역시
+      </td>
+      <td>
+        <a href="https://www.bsjunggu.go.kr/"><img src="https://blog.kakaocdn.net/dna/cF22No/btqxPSPiFdT/AAAAAAAAAAAAAAAAAAAAAJEALwnkI-YL6IcfHJ9LkVZcMj4H5KRloNrodHXcguhL/img.jpg" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="중구"> 중구</a> ·
+        <a href="https://www.bsseogu.go.kr/"><img src="https://www.bsseogu.go.kr/img/portal/common/logo.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="서구"> 서구</a> ·
+        <a href="https://www.bsdonggu.go.kr/"><img src="https://www.bsdonggu.go.kr/images/common/logo2025.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="동구"> 동구</a> ·
+        <a href="https://www.yeongdo.go.kr/"><img src="https://www.yeongdo.go.kr/_res/portal/img/inc/logo@2x.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="영도구"> 영도구</a>
+        <br>
+        <a href="https://www.busanjin.go.kr/"><img src="https://busanjin.go.kr/images/Potal_/content/new/logo.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="부산진구"> 부산진구</a> ·
+        <a href="https://www.dongnae.go.kr/"><img src="https://blog.kakaocdn.net/dna/bxHxVm/btqxMtDAd2c/AAAAAAAAAAAAAAAAAAAAANL7IcJ-TTlkn4nF-AbGWfsLhr9njATH670AptsV6PQq/img.jpg" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="동래구"> 동래구</a> ·
+        <a href="https://www.bsnamgu.go.kr/"><img src="https://www.bsnamgu.go.kr/logo_intro_2026.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="남구"> 남구</a> ·
+        <a href="https://www.bsbukgu.go.kr/"><img src="https://www.bsbukgu.go.kr/images/portal/logo.jpg" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="북구"> 북구</a>
+        <br>
+        <a href="https://www.haeundae.go.kr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Haeundae%2C_Busan.svg/960px-Flag_of_Haeundae%2C_Busan.svg.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="해운대구"> 해운대구</a> ·
+        <a href="https://www.saha.go.kr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Saha%2C_Busan.svg/960px-Flag_of_Saha%2C_Busan.svg.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="사하구"> 사하구</a> ·
+        <a href="https://www.geumjeong.go.kr/"><img src="https://www.geumjeong.go.kr/img/geumjeong/common_new/logo.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="금정구"> 금정구</a> ·
+        <a href="https://www.bsgangseo.go.kr/"><img src="https://www.bsgangseo.go.kr/_res/portal/img/inc/logo@2x.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="강서구"> 강서구</a>
+        <br>
+        <a href="https://www.yeonje.go.kr/"><img src="https://www.yeonje.go.kr/portal/img/common/logo.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="연제구"> 연제구</a> ·
+        <a href="https://www.suyeong.go.kr/"><img src="https://www.suyeong.go.kr/img/suyeong/top_logo_on_2020.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="수영구"> 수영구</a> ·
+        <a href="https://www.sasang.go.kr/"><img src="https://www.sasang.go.kr/img/sasang/common_new/logo.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="사상구"> 사상구</a> ·
+        <a href="https://www.gijang.go.kr/"><img src="https://www.gijang.go.kr/images/portal/intro/new_logo.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="기장군"> 기장군</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.ulsan.go.kr/"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Emblem_of_Ulsan.svg" height="24" alt="울산광역시"></a><br>
+        울산광역시
+      </td>
+      <td>
+        <a href="https://www.junggu.ulsan.kr/"><img src="https://www.junggu.ulsan.kr/images/domain/junggu/file/symbol.jpg" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="중구"> 중구</a> ·
+        <a href="https://www.ulsannamgu.go.kr/"><img src="https://www.ulsannamgu.go.kr/images/namgu_img/namgu_logo.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="남구"> 남구</a> ·
+        <a href="https://www.donggu.ulsan.kr/"><img src="https://www.donggu.ulsan.kr/images/common/logo2.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="동구"> 동구</a> ·
+        <a href="https://www.bukgu.ulsan.kr/"><img src="https://www.bukgu.ulsan.kr/images/header/logo.svg" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="북구"> 북구</a> ·
+        <a href="https://www.ulju.ulsan.kr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Ulju%2C_Ulsan.svg/3840px-Flag_of_Ulju%2C_Ulsan.svg.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="울주군"> 울주군</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.gyeongnam.go.kr/"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Emblem_of_South_Gyeongsang_Province.png" height="24" alt="경상남도"></a><br>
+        경상남도
+      </td>
+      <td>
+        <a href="https://www.changwon.go.kr/"><img src="https://www.changwon.go.kr/cwportal/tracer/logo.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="창원시 (의창구, 성산구, 마산합포구, 마산회원구, 진해구)"> 창원시 (의창구, 성산구, 마산합포구, 마산회원구, 진해구)</a>
+        <br>
+        <a href="https://www.jinju.go.kr/"><img src="https://www.jinju.go.kr/_res/portal/img/inc/logo1@2x.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="진주시"> 진주시</a> ·
+        <a href="https://www.tongyeong.go.kr/"><img src="https://www.tongyeong.go.kr/_res/portal/img/inc/logo2026.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="통영시"> 통영시</a> ·
+        <a href="https://www.sacheon.go.kr/"><img src="https://www.sacheon.go.kr/portal/img/inc/logo@2x2025.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="사천시"> 사천시</a> ·
+        <a href="https://www.gimhae.go.kr/"><img src="https://www.gimhae.go.kr/_res/portal/img/inc/logo@2x.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="김해시"> 김해시</a>
+        <br>
+        <a href="https://www.miryang.go.kr/"><img src="https://blog.kakaocdn.net/dna/bPVQeU/btqxnmKbhvS/AAAAAAAAAAAAAAAAAAAAAIpSdCf_FuPEwh4SvFXLBpuTKesUY03RzgD47Qcs-KOW/img.jpg" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="밀양시"> 밀양시</a> ·
+        <a href="https://www.geoje.go.kr/"><img src="https://blog.kakaocdn.net/dna/dAsigh/btqxmkGklGY/AAAAAAAAAAAAAAAAAAAAAEaBy9NBPKsv8djyJvlV4rWDsNfyUYYhBPBLF2aY2L8V/img.jpg" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="거제시"> 거제시</a> ·
+        <a href="https://www.yangsan.go.kr/"><img src="https://blog.kakaocdn.net/dna/bc97WC/btqxlxe5OWO/AAAAAAAAAAAAAAAAAAAAAPzaSFEW8hjRk82P1fie6awRptkeuITw62s-nxMfnUrS/img.jpg" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="양산시"> 양산시</a>
+        <br>
+        <a href="https://www.uiryeong.go.kr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Flag_of_Uiryeong.svg/1063px-Flag_of_Uiryeong.svg.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="의령군"> 의령군</a> ·
+        <a href="https://www.haman.go.kr/"><img src="https://blog.kakaocdn.net/dna/qjabV/btqxAc9MDqf/AAAAAAAAAAAAAAAAAAAAAHhWEyncuipZy-FntORw_Gtb6sGECmhLC-xTCHZxVM64/img.jpg" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="함안군"> 함안군</a> ·
+        <a href="https://www.cng.go.kr/"><img src="https://www.cng.go.kr/_res/portal/img/inc/logo@2x.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="창녕군"> 창녕군</a> ·
+        <a href="https://www.goseong.go.kr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Goseong%2C_South_Gyeongsang.svg/1063px-Flag_of_Goseong%2C_South_Gyeongsang.svg.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="고성군"> 고성군</a>
+        <br>
+        <a href="https://www.namhae.go.kr/"><img src="https://www.namhae.go.kr/_res/portal/img/inc/logo@2x2025.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="남해군"> 남해군</a> ·
+        <a href="https://www.hadong.go.kr/"><img src="https://www.hadong.go.kr/_res/portal/img/inc/2022/logo1@2x.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="하동군"> 하동군</a> ·
+        <a href="https://www.sancheong.go.kr/"><img src="https://www.sancheong.go.kr/common/images/layout/logo.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="산청군"> 산청군</a> ·
+        <a href="https://www.hygn.go.kr/"><img src="https://blog.kakaocdn.net/dna/cdCwa7/btqxygZmHMu/AAAAAAAAAAAAAAAAAAAAABAyRW79I3s2EYNrnFm6stLGI-sRiJxU9I7vLPHc_cHy/img.jpg" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="함양군"> 함양군</a>
+        <br>
+        <a href="https://www.geochang.go.kr/"><img src="https://www.geochang.go.kr/_res/intro/img/logo@2x.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="거창군"> 거창군</a> ·
+        <a href="https://www.hc.go.kr/"><img src="https://www.hc.go.kr/_res/portal/img/inc/logo@2x.png" width="18" height="18" style="object-fit: cover; object-position: left center; vertical-align: middle;" alt="합천군"> 합천군</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 CSV 파일의 D행이 지역 정보를 담고 있으므로, 아래 기초자치단체 검색어가 포함된 열만을 선택한다. 이후 D행의 각 열이 동일한 것끼리 나누어서 저장한다. 이때 G행의 차수가 1~3개밖에 없는 데이터는 수질오염도의 추이를 분석하기 부족하므로 제외한다.
 
 <a id="file-separation"></a>
