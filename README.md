@@ -1,9 +1,9 @@
-<a href="https://plus.cnu.ac.kr/"><img align="right" src="assets/cnu-logo.svg" width="64" alt="Chungnam National University"></a><h1>동남권 수질오염도 추세 분석</h1>
+<h1>동남권 수질오염도 추세 분석</h1>
 
 <p>Water Quality Trends in Southeastern Korea (Busan, Ulsan, Gyeongsangnam-do)</p>
 
 <p>
-  2024년 <a href="https://swuniv.cnu.ac.kr/swuniv/index.do">충남대학교 소프트웨어중심사업단</a> 교양수업인 "컴퓨터과학적사고" 강의에서 본인이 제출한 과제입니다.<br>
+  2024년 <img src="assets/cnu-logo.svg" width="18" height="18" alt=""> <a href="https://swuniv.cnu.ac.kr/swuniv/index.do">충남대학교 소프트웨어중심사업단</a> 교양수업인 "컴퓨터과학적사고" 강의에서 본인이 제출한 과제입니다.<br>
   This assignment was submitted for "Computational Scientific Thinking", a general-education course offered through the National Center of Excellence in Software at Chungnam National University in 2024.
 </p>
 
@@ -208,5 +208,10 @@ CNUcompthink24/
 정부 공공 데이터 포털에서 정보를 다운받았을 때, 여러 속성이 CSV파일 내에 존재하였으나 조사기관이 서로 다른 데이터를 모두 취합한 것에 불과해서 모든 데이터가 정형화되어 존재하지 않았다. AI를 이용하여 데이터를 분석하기 전 데이터를 가공하는 과정에서 시간이 많이 소모되었는데, 위의 코드를 수정하는 시행착오의 과정에서 하나라도 데이터의 정제 및 취사선택이 진행되지 않으면 이후 데이터가 분석되지 않거나, 이상치가 출력되는 등의 결과가 나타나게 되었다. 데이터의 가공도 중요하지만 데이터를 정제하여 분석에 알맞게 쓸 수 있도록 하는 과정인 데이터 분석도 가공 못지않게 중요하거나 더 중요할 수 있겠다는 생각을 하였다.
 
 <br>
+
+<div align="right">
+  <img src="assets/taegeukgi.svg" height="42" alt="대한민국 국기">
+  <a href="https://plus.cnu.ac.kr/"><img src="assets/cnu-logo.svg" height="42" alt="Chungnam National University"></a>
+</div>
 
 <sub>본 문서에 사용된 학교·지자체 로고 및 기타 이미지는 각 권리자에게 귀속되며, 관련 기관·자료의 식별과 과제 설명을 위한 목적으로만 사용하였다.</sub>
