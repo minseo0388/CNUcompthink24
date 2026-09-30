@@ -1,7 +1,6 @@
-<h1>
-  <a href="https://plus.cnu.ac.kr/"><img src="assets/cnu-logo.svg" width="38" alt="Chungnam National University"></a>
-  ctl_24
-</h1>
+<a href="https://plus.cnu.ac.kr/"><img align="right" src="assets/cnu-logo.svg" width="48" alt="Chungnam National University"></a>
+
+<h1>ctl_24</h1>
 
 <p>
   computational thinking<br>
@@ -58,78 +57,81 @@
     <tr>
       <td align="center">
         <a href="https://www.busan.go.kr/"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Symbol_of_Busan_(2023%E2%80%93).svg" height="30" alt="부산광역시"></a><br>
-        부산광역시
+        부산광역시<br>
+        <sub>(부산시, 부산)</sub>
       </td>
       <td>
-        <a href="https://www.bsjunggu.go.kr/"><img src="https://i.namu.wiki/i/1eNKiEYdrzrkiZ9YcdirKPgz1p7YLpl1NOvZrDb-bKZj5Xo2DwHYGkyiGyCoSSHswA4vi4UGEOLVgdTjWfdl036stfkcNMUunupMM-1WTmuIY65X9CXLdNHZDDnGUjxM84z3FCfV7o5AOAmdxeQFHA.svg" width="18" height="18" alt="중구"> 중구</a> ·
-        <a href="https://www.bsseogu.go.kr/"><img src="https://i.namu.wiki/i/2EwFUj4Hhhl-LWHrXKPfVH4oqS9QFdMJV_fJY9KK73pef8wZAm120KQ9Bgph9obAn6PVs0PbbTz9IrJxDQ5F7mxE8PdeqGK1u9WsxbfRIpAyB3SWs2WiRqm1gmUFh9kil-qa1BZGOtRYgiu4ndeUVA.svg" width="18" height="18" alt="서구"> 서구</a> ·
-        <a href="https://www.bsdonggu.go.kr/"><img src="https://i.namu.wiki/i/YEiLH0d3aJasNinQWfjyELZXw2KfTJ2XXJOjT0BqFtls5pHwDORLZw0I3GF1eXeV6X7n68GqJWNvgbHJciMo_eIQ3CmUZY8oqYSztmtHTnUp52U9T63Q0vaWyRfK6Woohym6SI4fUzxZV5BZzUBTNA.svg" width="18" height="18" alt="동구"> 동구</a> ·
-        <a href="https://www.yeongdo.go.kr/"><img src="https://i.namu.wiki/i/-BJQHEML0ohIF3ozC3kYqailNu-3A2rumCIuM_j7UmQjozp6FtCK48bmb4exOeW22EbJjwhCtmGS7qXPQf4L68ZlRy54U6Kl1teua3r18ESYZpax1oC18r5zlXDb6saeQfRODyFvLTCRUzsnyQFH-w.svg" width="18" height="18" alt="영도구"> 영도구</a>
+        <img src="assets/municipal/busan-dongnae.svg" width="18" height="18" alt=""> 동래구 ·
+        <img src="assets/municipal/busan-geumjeong.svg" width="18" height="18" alt=""> 금정구 ·
+        <img src="assets/municipal/busan-yeonje.svg" width="18" height="18" alt=""> 연제구 ·
+        <img src="assets/municipal/busan-gangseo.svg" width="18" height="18" alt=""> 강서구
         <br>
-        <a href="https://www.busanjin.go.kr/"><img src="https://i.namu.wiki/i/UPuy4V0__QbLX6fSN6yxCvtLzUSDN1OJpCeXuzFHfId5tC50WoD4ZFSd55CUhpoBNe8yPU4zS4AWQBh-A_nAnJ23vvdADSxc-39Hr3pQr6bT0KyY7js0CTgq9DFtpRXBz6r0W4X83xcC_vb2M9tA7A.svg" width="18" height="18" alt="부산진구"> 부산진구</a> ·
-        <a href="https://www.dongnae.go.kr/"><img src="https://i.namu.wiki/i/3a0Yqas0bTm3rvaEXsWdcPyd2RU5FIOeuw2NB-1Ct9UoyBfhgvlJE4velWZNd4rwpkYVcQ71JjWskfLHFHOdO_JgK-bE5TOOVPcHtTQ6z-PfuLEt8EKI9RJVy_sw9tNKf43n81P_JJmsBAp2B4Q_Fg.svg" width="18" height="18" alt="동래구"> 동래구</a> ·
-        <a href="https://www.bsnamgu.go.kr/"><img src="https://i.namu.wiki/i/dy5ZwKu_kqSVnrpBlSIC4KJOcxIB7ETgQecyeTufxTWQEDsGTOlShFe5snApi9sJoNBLM0jmgi_TqDYgTCTixlxL3vLCi54agURySajzRglBJo7E5pfo4f7X9UMRIPcQfe0-5fuc3jJCPhw0CCUBjA.svg" width="18" height="18" alt="남구"> 남구</a> ·
-        <a href="https://www.bsbukgu.go.kr/"><img src="https://i.namu.wiki/i/YlPuKcFv0BVgf3EOvn16GhTtmxADKl_QL4kewjq13NZ3_OUvvVg3Wfe25vEo7l_oYuoeTdh6z4TV7NjGlI1LiVKFNTj2x8FhEx6VTcHwCjKeX-GKccMQxF5VdppkwojbV5sY7PDuKUv5JeCLP4OpxA.svg" width="18" height="18" alt="북구"> 북구</a>
+        <img src="assets/municipal/busan-gijang.svg" width="18" height="18" alt=""> 기장군 ·
+        <img src="assets/municipal/busan-namgu.svg" width="18" height="18" alt=""> 남구 ·
+        <img src="assets/municipal/busan-donggu.svg" width="18" height="18" alt=""> 동구 ·
+        <img src="assets/municipal/busan-busanjin.svg" width="18" height="18" alt=""> 부산진구
         <br>
-        <a href="https://www.haeundae.go.kr/"><img src="https://i.namu.wiki/i/YlPuKcFv0BVgf3EOvn16GhTtmxADKl_QL4kewjq13NZ3_OUvvVg3Wfe25vEo7l_oYuoeTdh6z4TV7NjGlI1LiVKFNTj2x8FhEx6VTcHwCjKeX-GKccMQxF5VdppkwojbV5sY7PDuKUv5JeCLP4OpxA.svg" width="18" height="18" alt="해운대구"> 해운대구</a> ·
-        <a href="https://www.saha.go.kr/"><img src="https://i.namu.wiki/i/xiry9OTwBF0V5f_gndLD3JDLFiVLKCAEE19xNtWZKJkbtpssCOduw6nRSknJAElAV_A8ylyyUJNNHiqZW790J7cPGOvbH04wdiCMYwjT9oI7LQXiTRbd5_6iF6ARUdcSdzVtBdDAI2r2wULhCYurWg.svg" width="18" height="18" alt="사하구"> 사하구</a> ·
-        <a href="https://www.geumjeong.go.kr/"><img src="https://i.namu.wiki/i/ejVPCgpEK51ZkKY6wNkZtwfbdcubTQv3QqVl12QQM0UZ0i0zEhNd6ns0Eqt5m8tPOlqiQ8WSmSRK0osksC4LjYmOxWPu9HEV7QtxxKfHuVssd_PmNxioJHUTgyriBBZ7BPrXbRU3POIfacZqR-mCPQ.svg" width="18" height="18" alt="금정구"> 금정구</a> ·
-        <a href="https://www.bsgangseo.go.kr/"><img src="https://i.namu.wiki/i/ARdlKU4tnOsn-K5HjP890bJkgmAkv_2yuHmafysEa0qF7sXYtZUGTG4L719o7w1XlMYTPGcjcalu_Q_hJwKhIBp6lYAjudVbn40TKYIErmcQmHO4BLQjuub84CYysWSK_DawMT2tlTtM7oFTKZyj-g.svg" width="18" height="18" alt="강서구"> 강서구</a>
+        <img src="assets/municipal/busan-bukgu.svg" width="18" height="18" alt=""> 북구 ·
+        <img src="assets/municipal/busan-sasang.svg" width="18" height="18" alt=""> 사상구 ·
+        <img src="assets/municipal/busan-saha.svg" width="18" height="18" alt=""> 사하구 ·
+        <img src="assets/municipal/busan-seogu.svg" width="18" height="18" alt=""> 서구
         <br>
-        <a href="https://www.yeonje.go.kr/"><img src="https://i.namu.wiki/i/nk6U8fTkx_9m73YQGGyrinnyFH0ibYHChYVsQCxbg3VZ_jwy4h5y14-K2rqS0l57vwFfrEej3QohSsQujytu4ciS03SqKb46iBxTbFYcz-7BXtoSN_l8a75musZ6z0WG1u_MtW6Jtow4g_iGF9Ks5A.svg" width="18" height="18" alt="연제구"> 연제구</a> ·
-        <a href="https://www.suyeong.go.kr/"><img src="https://i.namu.wiki/i/IVmH1M50bvlyo4kruYXnzSk1oez5dfLkCttHcSCozBjYUhAaITUV44eG82ox5GEKZMVPDSEHqe0JAhnqb8BL25fneUYwFk0EVLLvgvRUgEqEKc1Vbek4DntTPdGPXWgcOhDnqbPJi5Boj2leUfZf-w.svg" width="18" height="18" alt="수영구"> 수영구</a> ·
-        <a href="https://www.sasang.go.kr/"><img src="https://i.namu.wiki/i/pAJAKKmzoEGkP-7z2AfajYxD-nsjL_1Du3lCtjJa6mOu7MQfiX6LMEsd7QwWNftXT8-SJaPNpTNQL8JfX5ersE4bawWIHD9kpGk9nyPsYAAjl8jVMLdo-q4EnrnaETp1QTmzBu_BGwA0L-YK9Qb3wA.svg" width="18" height="18" alt="사상구"> 사상구</a> ·
-        <a href="https://www.gijang.go.kr/"><img src="https://i.namu.wiki/i/Sx4wG5Rg9GrNtjKCm17cQxJbcEr8bonHJQAKE_ZM49QJY3PyGrrXpglEPZWwyV7QQsvDJ9rjAK2ov4CIpsg8MhBMCzh8LyIkoauIGM9QPtUSgPvS9TVS_zdPKL-Uc1aJe2ndnseMhkp1kZbc4uxvRw.svg" width="18" height="18" alt="기장군"> 기장군</a>
+        <img src="assets/municipal/busan-suyeong.svg" width="18" height="18" alt=""> 수영구 ·
+        <img src="assets/municipal/busan-yeongdo.svg" width="18" height="18" alt=""> 영도구 ·
+        <img src="assets/municipal/busan-junggu.svg" width="18" height="18" alt=""> 중구 ·
+        <img src="assets/municipal/busan-haeundae.svg" width="18" height="18" alt=""> 해운대구
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://www.ulsan.go.kr/"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Emblem_of_Ulsan.svg" height="24" alt="울산광역시"></a><br>
-        울산광역시
+        울산광역시<br>
+        <sub>(울산시, 울산)</sub>
       </td>
       <td>
-        <a href="https://www.junggu.ulsan.kr/"><img src="https://i.namu.wiki/i/zWPrX0pH4zyQ25jQZhL6_-TzyclxTNCecWWoWnQXcH9Eb4WHLgkFHL67y19xegga0NjCBGOwK93Fwud8kc3dUqHbVSEH8fIUbIz86ZWvy8BvkEu0QI5j7B-nc9y2cNmFEWIKqHyyuj8vg4aI1KAQdA.svg" width="18" height="18" alt="중구"> 중구</a> ·
-        <a href="https://www.ulsannamgu.go.kr/"><img src="https://i.namu.wiki/i/i5XO8XJSI1X2MmEBuH81vAdHJnLA6CukJ4OnZ-HPJ-6PG_QKIYWYD0sFh4JkaCjyBq31otGVl1dLINZiM91g_BEQ5Z0lPcmAiwqOFxAILTx6REtPsdjn0OHJo09ckzc3IY_dWLOUjsyWHYiGPLB59w.svg" width="18" height="18" alt="남구"> 남구</a> ·
-        <a href="https://www.donggu.ulsan.kr/"><img src="https://i.namu.wiki/i/TsLOMtnwoLXCsiztrX6LS_ZVgHZoSnWKPAc4P8dDtcvyUkj04LtOkrneynJGQXX7F0pqPUmT2PfShOoEZadVTZou_r_fVLHo6H3PrsX7_07E88jIvOan2vJIS8cjYN7WpuUXFhxiJcvCyY33uuJvFQ.svg" width="18" height="18" alt="동구"> 동구</a> ·
-        <a href="https://www.bukgu.ulsan.kr/"><img src="https://i.namu.wiki/i/sgt1vbF5iLQvYIHnt-p6UZUXOQ00FRsqbhbdmS8Umzyu3ABZ-_PaECK0s7mfXd9iXgVIXDQ0QetmxviKVY8sDA_DmVsjF4jKxqch8dA_qvCCa5E22q_mhd54OW8SaASHotmm_y2592jxQcJWS33xTg.svg" width="18" height="18" alt="북구"> 북구</a> ·
-        <a href="https://www.ulju.ulsan.kr/"><img src="https://i.namu.wiki/i/WwIVb8-6U3729DdXtLvNvD-Worh8z360VFAEu6RVOrIF_4Mfrh17XtXCd2PNADagf8mqhMLKcNfYmTsOaexlXCDjpv1nOgyIdkxxsgSrAyRMyl_GHkNKJJkfggRowMnTLBXjy8MH0OPdRTO9PfAp2A.svg" width="18" height="18" alt="울주군"> 울주군</a>
+        <img src="assets/municipal/ulsan-donggu.svg" width="18" height="18" alt=""> 동구 ·
+        <img src="assets/municipal/ulsan-junggu.svg" width="18" height="18" alt=""> 중구 ·
+        <img src="assets/municipal/ulsan-namgu.svg" width="18" height="18" alt=""> 남구 ·
+        <img src="assets/municipal/ulsan-bukgu.svg" width="18" height="18" alt=""> 북구 ·
+        <img src="assets/municipal/ulsan-ulju.svg" width="18" height="18" alt=""> 울주군
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://www.gyeongnam.go.kr/"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Emblem_of_South_Gyeongsang_Province.png" height="24" alt="경상남도"></a><br>
-        경상남도
+        경상남도<br>
+        <sub>(경남)</sub>
       </td>
       <td>
-        <a href="https://www.changwon.go.kr/"><img src="https://i.namu.wiki/i/4tm1m8U_zzuN5k8xXhhnMUxqtzZ2deun3i-fOnywpNu5iPrEd2Jgc378QMBkT9xUGIqXe0WV6qHirVNRkq5dfuGZxz-hCQBh3XroOeHmg41BUjOB4l19xCJ0YU8MpcAzl3mZvVJBHl3x-_I34ygECQ.svg" width="18" height="18" alt="창원시 (의창구, 성산구, 마산합포구, 마산회원구, 진해구)"> 창원시 (의창구, 성산구, 마산합포구, 마산회원구, 진해구)</a>
+        <img src="assets/municipal/gyeongnam-changwon.svg" width="18" height="18" alt=""> 창원시 (의창구, 성산구, 마산합포구, 마산회원구, 진해구)
         <br>
-        <a href="https://www.jinju.go.kr/"><img src="https://i.namu.wiki/i/u-XDyn8iJF-BdhcMAzqaQmzZB2OWO7OfS14WtiC_cFEOyMm4L4SdxRWRHqKYzMHgGMDCyh22noxWeARkFHedzQ.svg" width="18" height="18" alt="진주시"> 진주시</a> ·
-        <a href="https://www.tongyeong.go.kr/"><img src="https://i.namu.wiki/i/qWNvK2T_TbqtecJQJl9sjAGq27rdqT48fC-_TpN2kIVLD2cx-U5zD09ongO6RF1ku8SBJWBDxG-9K0e-f0GQvzaXdJRACVFilY9XfDXy2Iu7VT1drA0b1DLBDZYGkilP1LTpYw_uzfH70gYyqf93Lg.svg" width="18" height="18" alt="통영시"> 통영시</a> ·
-        <a href="https://www.sacheon.go.kr/"><img src="https://i.namu.wiki/i/5p5B2i6F0BzZNXrsrtHBGXyCbiWhQPbPTDQbZ4igUGQPTR_E_hR-Ng18P55Igp_b_JKbSVEsztkNAqDqrnx5peW_cARGTgB2WPVAOUgkB7_KM8buLNxbYz4Y3DAFB9ssynqwRZ-S6MdgRtiRR4TcjQ.svg" width="18" height="18" alt="사천시"> 사천시</a> ·
-        <a href="https://www.gimhae.go.kr/"><img src="https://i.namu.wiki/i/QFRExYIbdHOptQ-F5l3wszM4UzGLA6N6mD0IPghR0hCrl06MzfwyGPbFOlaXuEFeGe6Ao_JZz22absZPB7tr1rLlFd8v3xgNb7i2F4aiXnz6mu6ZPh4DPo4fNBczAZ2nJoPzO_ozuCXno53v2cimrw.svg" width="18" height="18" alt="김해시"> 김해시</a>
+        <img src="assets/municipal/gyeongnam-gimhae.svg" width="18" height="18" alt=""> 김해시 ·
+        <img src="assets/municipal/gyeongnam-yangsan.svg" width="18" height="18" alt=""> 양산시 ·
+        <img src="assets/municipal/gyeongnam-jinju.svg" width="18" height="18" alt=""> 진주시 ·
+        <img src="assets/municipal/gyeongnam-geoje.svg" width="18" height="18" alt=""> 거제시
         <br>
-        <a href="https://www.miryang.go.kr/"><img src="https://i.namu.wiki/i/tQRCX2PAP-GAtpz13OQPssFID4POOoPCSGl03Wr9RtQQPiPix0ZkPufVAJCQVmgMiYvTj2ZSU88GkqQ6RnBDLxza8P0qV32wQFQk1qyC9NC28En1iSLrq1-n5oormSQyDn9xSWnsvEcuK8WmqIijEw.svg" width="18" height="18" alt="밀양시"> 밀양시</a> ·
-        <a href="https://www.geoje.go.kr/"><img src="https://i.namu.wiki/i/FnJEcAZXTj33GCDWU0aE-I08N1gr0XgzlQKtcxZzucjgu7snWuQdnyHYA4XJG1AIvJ4l9WfFQ2TYb9DCP3wXSnBbLjae3Lzm87WGYbvQJF1DC0ecfke9RQujvPZX1E_MHAWBVWKe9HPdRHHOIc-tVQ.svg" width="18" height="18" alt="거제시"> 거제시</a> ·
-        <a href="https://www.yangsan.go.kr/"><img src="https://i.namu.wiki/i/5njPL5VcelP6N7EQjzbKuRNPtVZ0AL86bqRo3V6N_fp-DFZW4NFHIrYrRouQWXyKmnb4vMmSTldxPhC9JW6aO_Ozaq9vTt1Pb60LC8iuiI9Keldrq2vnd1_5qqHqz7LhOMllnEIAXVUljj8rLoIRow.svg" width="18" height="18" alt="양산시"> 양산시</a>
+        <img src="assets/municipal/gyeongnam-tongyeong.svg" width="18" height="18" alt=""> 통영시 ·
+        <img src="assets/municipal/gyeongnam-sacheon.svg" width="18" height="18" alt=""> 사천시 ·
+        <img src="assets/municipal/gyeongnam-miryang.svg" width="18" height="18" alt=""> 밀양시 ·
+        <img src="assets/municipal/gyeongnam-haman.svg" width="18" height="18" alt=""> 함안군
         <br>
-        <a href="https://www.uiryeong.go.kr/"><img src="https://i.namu.wiki/i/35ASobQHS2Cgzh3rW2Gr4Ilk_703XQA8PA3qJcCX9yC4sSZ-A-6OgWTjTO_Rggy3ygppnRWabTFl3GdoopH3pITcq2rgiSfuYPo4e_-nbEIy-9-STFHQn_OiC0omHIYsFHue6ezlUFb9Bwiq4FCPeg.svg" width="18" height="18" alt="의령군"> 의령군</a> ·
-        <a href="https://www.haman.go.kr/"><img src="https://i.namu.wiki/i/BjV4dD1Go_8SimX7iAmkzuDkWD2dX7LKgZysjc9sD5Kew2zGwiAPvwMDzWzkKh3wmYdu6aw-JnuoIlShZCU9_IO9ZQU-hZYdn0bKwxY-NXo62i4ddQZX81YLlnIcYwSeKVqV7A4pD0zHSWVg008SiA.svg" width="18" height="18" alt="함안군"> 함안군</a> ·
-        <a href="https://www.cng.go.kr/"><img src="https://i.namu.wiki/i/_lwhJxWJwjhg-otg1LTqdenJCpq3lxCyJNhUoEBxcA5b9j3X2RSBQBY-zArdcC9U_QY5Rc52r2nCdDLIz7RFNmJ9_tded7LOhuxVCzUrKn7Yn31349qqDA1RIsiS8rhEa5rVBTV2dc3T0FEuNxkhJw.svg" width="18" height="18" alt="창녕군"> 창녕군</a> ·
-        <a href="https://www.goseong.go.kr/"><img src="https://i.namu.wiki/i/aCSJVW-PA8rvdKfp2eYFX7Km83NecvHGKknFAyEbG3sYYu5Ql4fJ4SgPin1Po0LVV_tfADQmI40J-kYIwp67eesdy4jsq8iNZqhwsPNSKZfuFq5X8AVujpWdgiUDE1sDcUy80P-Sz2Zj-chVb_BJtA.svg" width="18" height="18" alt="고성군"> 고성군</a>
+        <img src="assets/municipal/gyeongnam-geochang.svg" width="18" height="18" alt=""> 거창군 ·
+        <img src="assets/municipal/gyeongnam-changnyeong.svg" width="18" height="18" alt=""> 창녕군 ·
+        <img src="assets/municipal/gyeongnam-goseong.svg" width="18" height="18" alt=""> 고성군
         <br>
-        <a href="https://www.namhae.go.kr/"><img src="https://i.namu.wiki/i/Mny2V8aJg4fqA8aUBHc5tq79Uw5FsEwENl7ZzLx6hlnjjNoFtX1u8JgAED6tpGoTAMEfw_206N-lPHwDHp7h92weEZxVWmDQeRm0FinPUV1j80GMcKsziD7WyjchE3BtLEbnIgUrv3EZrmuFKo3Saw.svg" width="18" height="18" alt="남해군"> 남해군</a> ·
-        <a href="https://www.hadong.go.kr/"><img src="https://i.namu.wiki/i/n3xShxR22on2FYr-1uzyxV3lheqJeaUV3ZPh3SJcHUA9H-cNGkPs_w2un-AnDhrChx2M4iJyubRiCLb9AozoN7AX6U9c0KnbMC9OwUCYsWJp54P0BSBUQ4WBL5HlgNNorodZMPawSui8bLxhTntymw.svg" width="18" height="18" alt="하동군"> 하동군</a> ·
-        <a href="https://www.sancheong.go.kr/"><img src="https://i.namu.wiki/i/NC1dCsWNENuggYroiIPXRmB2O8eZV12XleWUgXa2r55pvzTFjj4AiDcYzVnObT8guXSaAOcghdhwuTvI7H2QthUfNzR2Q_-mcnPo04DAXqycF5574JXKxVVZy6vEwMyRfmwQFoecSLHmfUFCQz2OrA.svg" width="18" height="18" alt="산청군"> 산청군</a> ·
-        <a href="https://www.hygn.go.kr/"><img src="https://i.namu.wiki/i/Y8A7QiTt_Ekbf0wJH2u-yTELhSI5-VB-KAE87JWqt4fduo1rzrcKHX1gzn6pKAF7zBaol0kRif53jq3YjPBKtb4-iie94xR0D2_7RfaElIq6Yn4jsuk01UmZl818epmAlQK7wzyWIuMtwbisGxdbeg.svg" width="18" height="18" alt="함양군"> 함양군</a>
+        <img src="assets/municipal/gyeongnam-hadong.svg" width="18" height="18" alt=""> 하동군 ·
+        <img src="assets/municipal/gyeongnam-namhae.svg" width="18" height="18" alt=""> 남해군 ·
+        <img src="assets/municipal/gyeongnam-hapcheon.svg" width="18" height="18" alt=""> 합천군 ·
+        <img src="assets/municipal/gyeongnam-hamyang.svg" width="18" height="18" alt=""> 함양군
         <br>
-        <a href="https://www.geochang.go.kr/"><img src="https://i.namu.wiki/i/ZvR6cPcOt6m4-OC9RgdQXicGlKNOk81BYqpAJdkDIUazjJE-MF4jSi3FgEs4hpbkFeLJkVxL9DsmtlaUokSCS5pDITdXz_Ln6KopZk3Da9ts1gA0rGNuw7q3mk5oZIXtYLClv2Of148Il3I4P1KFeA.svg" width="18" height="18" alt="거창군"> 거창군</a> ·
-        <a href="https://www.hc.go.kr/"><img src="https://i.namu.wiki/i/9Vyjl1xF3YnR_AuQ-XZM_JY7BT3xzzBRha6rUlfQxwo6vCfDQqx5WY9HgY4IWIubzulFkJQWm8cRemuFpWCg6kOak9FvIV-I5XaQx3uXC75nzSjVGFAqlmSSfn90T_eZ1P9Qss1nm14rtXbT0emsnQ.svg" width="18" height="18" alt="합천군"> 합천군</a>
+        <img src="assets/municipal/gyeongnam-sancheong.svg" width="18" height="18" alt=""> 산청군 ·
+        <img src="assets/municipal/gyeongnam-uiryeong.svg" width="18" height="18" alt=""> 의령군
       </td>
     </tr>
   </tbody>
 </table>
 
-CSV 파일의 D행이 지역 정보를 담고 있으므로, 아래 기초자치단체 검색어가 포함된 열만을 선택한다. 이후 D행의 각 열이 동일한 것끼리 나누어서 저장한다. 이때 G행의 차수가 1~3개밖에 없는 데이터는 수질오염도의 추이를 분석하기 부족하므로 제외한다.
+CSV 파일의 D행이 지역 정보를 담고 있으므로, 아래 기초자치단체 검색어가 포함된 열만을 선택한다. 이후 D행의 각 열이 동일한 것끼리 나누어서 저장한다. 이때 G행의 차수가 1~3개밖에 없는 데이터는 수질오염도의 추이를 분석하기 부족하므로 제외한다. 중구, 서구, 북구, 동구, 남구, 강서구, 고성군은 동명의 기초자치단체가 있어 해당 광역자치단체 검색어와 조합하여 검색하였다.
 
 <a id="file-separation"></a>
 
