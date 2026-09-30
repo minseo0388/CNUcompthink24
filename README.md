@@ -210,7 +210,7 @@ CNUcompthink24/
 <br>
 
 <div align="right">
-  <a href="https://plus.cnu.ac.kr/"><img src="assets/cnu-logo.svg" height="60" alt="Chungnam National University"></a>
+  <a href="https://plus.cnu.ac.kr/"><img src="assets/cnu-wordmark.png" height="60" alt="Chungnam National University"></a>
   <img src="assets/taegeukgi.svg" height="60" alt="대한민국 국기">
 </div>
 
