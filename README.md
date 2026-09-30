@@ -2,12 +2,11 @@
 
 <h1>동남권 수질오염도 추세 분석</h1>
 
-<p>Water Quality Trends in Southeastern Korea</p>
+<p>Water Quality Trends in Southeastern Korea (Busan, Ulsan, Gyeongsangnam-do)</p>
 
 <p>
-  computational thinking<br>
-  2024년 소프트중심대학 소프트웨어중점사업단 교양수업에서 본인이 제출한 과제입니다.<br>
-  This assignment was submitted for a general-education course offered through the National Center of Excellence in Software at Chungnam National University in 2024.
+  2024년 소프트중심대학 소프트웨어중점사업단 교양수업인 "컴퓨터과학적사고" 강의에서 본인이 제출한 과제입니다.<br>
+  This assignment was submitted for "Computational Scientific Thinking", a general-education course offered through the National Center of Excellence in Software at Chungnam National University in 2024.
 </p>
 
 ---
@@ -77,7 +76,7 @@
 
 <a id="regional-data-extraction"></a>
 
-### 1. CSV 파일에서 경상남도, 부산광역시, 울산광역시 관련 데이터를 추출한다.
+#### 1. CSV 파일에서 경상남도, 부산광역시, 울산광역시 관련 데이터를 추출한다.
 
 <table>
   <thead>
@@ -168,18 +167,18 @@ CSV 파일의 D행이 지역 정보를 담고 있으므로, 아래 기초자치�
 
 <a id="file-separation"></a>
 
-### 2. 각 지점별 데이터를 한 디렉터리에 분리하여 저장한다.
+#### 2. 각 지점별 데이터를 한 디렉터리에 분리하여 저장한다.
 원본 자료를 엑셀의 기본값 설정에 맞게 직접 짠 euckrconverterforwindows.py를 이용하여 euc-kr로 변환하였다. 이후 파일을 저장할 때는 to-csv() 함수의 encoding 요소의 기본값이 UTF-8이라 윈도우 엑셀 환경에서 인코딩이 깨져 원활하게 인식할 수 없으므로 앨리스 실습 때와 동일하게 인코딩 형식을 지정 (euc-kr)하여 해결하였다.
 
 인코딩이 어떻게 되어 있는지 주어진 디렉터리 내의 파일을 열어 리스트에 존재하는 인코딩 방식을 적용해보고, 오류가 생기면 다음에 존재하는 인코딩 방식으로 순차적으로 열어보도록 작성하였다. 이후 엑셀의 기본 설정인 EUC-KR 인코딩으로 파일을 저장하였고, 이 파일의 목적은 파일을 분리하기 전 같은 인코딩 방식으로 통일하는 것이다.
 
 <a id="graphing"></a>
 
-### 3. 각각의 파일을 읽어 그래프로 나타낼 수 있는 코드를 작성한다.
+#### 3. 각각의 파일을 읽어 그래프로 나타낼 수 있는 코드를 작성한다.
 
 <a id="web-based-file-selection"></a>
 
-### 4. HTML 웹 기반으로 각 파일을 선택할 수 있도록 하고, 이를 3.과 연결한다.
+#### 4. HTML 웹 기반으로 각 파일을 선택할 수 있도록 하고, 이를 3.과 연결한다.
 
 동적으로 이미지가 표현되어야 하나 위의 코드는 정적 코드이기 때문에 새로고침을 하고 다른 데이터를 불러와도 똑같은 이미지가 표현된다.
 
@@ -205,7 +204,7 @@ CNUcompthink24/
 
 <a id="reflection"></a>
 
-## 4. 과제를 통한 고찰 (배운 점 / 느낀 점)
+## 4. 과제를 통한 고찰
 데이터 분석하기에 앞서 데이터의 특징이 무엇인지, 데이터의 종류가 무엇인지에 대한 인지가 선행되어야 제대로 된 데이터분석을 진행할 수 있다는 것을 더욱 실감하게 되었다. 그 데이터의 특성을 분석하는 것은 결국 사람이 직접 해야 하는 영역이고 방향성은 사람이 결정해야 하는 것을 알았다.
 
 정부 공공 데이터 포털에서 정보를 다운받았을 때, 여러 속성이 CSV파일 내에 존재하였으나 조사기관이 서로 다른 데이터를 모두 취합한 것에 불과해서 모든 데이터가 정형화되어 존재하지 않았다. AI를 이용하여 데이터를 분석하기 전 데이터를 가공하는 과정에서 시간이 많이 소모되었는데, 위의 코드를 수정하는 시행착오의 과정에서 하나라도 데이터의 정제 및 취사선택이 진행되지 않으면 이후 데이터가 분석되지 않거나, 이상치가 출력되는 등의 결과가 나타나게 되었다. 데이터의 가공도 중요하지만 데이터를 정제하여 분석에 알맞게 쓸 수 있도록 하는 과정인 데이터 분석도 가공 못지않게 중요하거나 더 중요할 수 있겠다는 생각을 하였다.
