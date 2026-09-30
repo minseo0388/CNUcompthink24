@@ -1,6 +1,6 @@
-<a href="https://plus.cnu.ac.kr/"><img align="right" src="assets/cnu-logo.svg" width="64" alt="Chungnam National University"></a>
-
 <h1>동남권 수질오염도 추세 분석</h1>
+
+<a href="https://plus.cnu.ac.kr/"><img align="right" src="assets/cnu-logo.svg" width="64" alt="Chungnam National University"></a>
 
 <p>Water Quality Trends in Southeastern Korea (Busan, Ulsan, Gyeongsangnam-do)</p>
 
